@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "manik-r-91234824a",
   medium: "",
   twitter: "ManaMkr",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
